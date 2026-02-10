@@ -1,12 +1,13 @@
-# 👋 Olá! Bem-vindo ao meu perfil
+# 👋 Olá! Eu sou Rigoberto Oliveira
 
 ## 🚀 Sobre Mim
 
-Sou **DBA Junior** e **Desenvolvedor Python** com experiência em infraestrutura de dados empresariais e automação de pipelines. Atualmente trabalho com gerenciamento de bancos de dados e integração de sistemas na nuvem.
+Sou **Analista de Banco de Dados Jr** e **Desenvolvedor Python** na **Casa do Construtor**, com experiência em infraestrutura de dados empresariais e automação de pipelines de dados.
 
-- 🔭 Trabalhando com: Firebird Database, Google Cloud Platform, Apache Airflow
+- 🔭 Trabalhando com: Firebird 5.0, Google Cloud Platform, Apache Airflow
 - 🌱 Estudando: Integração de IA em monitoramento de sistemas, MCP (Model Context Protocol)
-- 💼 Especializado em: ETL/ERP, Data Warehousing, Automação de pipelines
+- 💼 Especializado em: ETL/ERP, Data Warehousing (BigQuery), Automação de pipelines
+- 🏢 Empresa: Casa do Construtor
 - 🇧🇷 Localização: São Paulo, Brasil
 
 ## 🛠️ Stack Tecnológico
@@ -16,7 +17,7 @@ Sou **DBA Junior** e **Desenvolvedor Python** com experiência em infraestrutura
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### Databases & Data
+### Databases & Data Engineering
 ![Firebird](https://img.shields.io/badge/Firebird-F05032?style=for-the-badge&logo=firebird&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
@@ -28,36 +29,48 @@ Sou **DBA Junior** e **Desenvolvedor Python** com experiência em infraestrutura
 
 ## 📊 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RigobertoWLL&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=RigobertoWLL&theme=tokyonight&locale=pt-br&hide_border=true)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RigobertoWLL&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true)
+![Linguagens mais usadas](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RigobertoWLL&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RigobertoWLL&theme=tokyonight&locale=pt-br&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=RigobertoWLL&color=blueviolet&style=flat-square)
 
+## 🔥 Áreas de Atuação
 
-## 🔥 Projetos em Destaque
+### 🗄️ Administração de Bancos de Dados
+Gerenciamento e otimização de sistemas Firebird 5.0, garantindo performance e integridade de dados empresariais.
 
-### 🗄️ Data Pipeline Automation
+### 🔄 Data Pipeline Automation
 Desenvolvimento de pipelines automatizados com Apache Airflow para integração de dados entre Firebird e BigQuery.
 
-### ☁️ Cloud Infrastructure
-Implementação de infraestrutura serverless no Google Cloud Platform usando Cloud Run.
+### ☁️ Infraestrutura Cloud
+Implementação de soluções serverless no Google Cloud Platform usando Cloud Run para processamento de dados.
 
 ### 📈 ETL/ERP Integration
-Processos de ETL para integração de sistemas ERP com data warehouse.
+Processos de ETL para integração de sistemas ERP com data warehouse, garantindo consistência e disponibilidade de dados.
 
-## 📫 Como me Encontrar
+## 📫 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rigoberto-oliveira-138988125/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RigobertoWLL)
 
-## 💡 Interesses
+## 💡 Interesses & Aprendizado
 
-- 🤖 Integração de IA em monitoramento de sistemas
-- 📊 Data Engineering e Analytics
-- ☁️ Arquitetura Cloud-Native
-- 🔄 Automação de processos de dados
+- 🤖 Integração de IA em monitoramento de sistemas e servidores
+- 📊 Data Engineering e Analytics em ambientes empresariais
+- ☁️ Arquitetura Cloud-Native e soluções serverless
+- 🔄 Automação de processos de dados e orquestração de workflows
+- 🔌 Desenvolvimento de integrações (APIs PIX, Slack, etc.)
+
+## 📈 Experiência
+
+- Migração e gerenciamento de bancos de dados Firebird
+- Construção de DAGs no Apache Airflow para automação de ETL
+- Design e implementação de data warehouse no BigQuery
+- Deployment de aplicações em Cloud Run (GCP)
+- Desenvolvimento de scripts Python para automação de processos
 
 ---
 
-⭐️ From [SEU_USERNAME](https://github.com/SEU_USERNAME)
+💼 **Analista de Banco de Dados Jr** @ Casa do Construtor  
+⭐️ From [RigobertoWLL](https://github.com/RigobertoWLL)
