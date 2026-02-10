@@ -2,13 +2,13 @@
 
 ## 🚀 Sobre Mim
 
-Sou **Analista de Banco de Dados Jr** e **Desenvolvedor Python** na **Casa do Construtor**, com experiência em infraestrutura de dados empresariais e automação de pipelines de dados.
+Sou **Analista de Banco de Dados Jr** e **Desenvolvedor Python** na **Casa do Construtor**, focado em infraestrutura de dados empresariais e automação de pipelines de dados.
 
 - 🔭 Trabalhando com: Firebird 5.0, Google Cloud Platform, Apache Airflow
-- 🌱 Estudando: Integração de IA em monitoramento de sistemas, MCP (Model Context Protocol)
-- 💼 Especializado em: ETL/ERP, Data Warehousing (BigQuery), Automação de pipelines
+- 🌱 Aprendendo: Integração de IA em monitoramento de sistemas, MCP (Model Context Protocol), Data Engineering
+- 💼 Foco: ETL/ERP, Data Warehousing (BigQuery), Automação de pipelines
 - 🏢 Empresa: Casa do Construtor
-- 🇧🇷 Localização: Rio Claro - São Paulo, Brasil
+- 🇧🇷 Localização: São Paulo, Brasil
 
 ## 🛠️ Stack Tecnológico
 
@@ -29,53 +29,62 @@ Sou **Analista de Banco de Dados Jr** e **Desenvolvedor Python** na **Casa do Co
 
 ## 📊 GitHub Stats
 
+<div align="center">
+  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=RigobertoWLL&theme=tokyonight&locale=pt-br&hide_border=true)
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RigobertoWLL&theme=tokyonight)
-
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RigobertoWLL&theme=tokyonight"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RigobertoWLL&theme=tokyonight"/>
 </div>
 
+<div align="center">
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=RigobertoWLL&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil)
 
-## 🔥 Áreas de Atuação
+</div>
+
+## 🔥 O que eu faço
 
 ### 🗄️ Administração de Bancos de Dados
-Gerenciamento e otimização de sistemas Firebird 5.0, garantindo performance e integridade de dados empresariais.
+Gerenciamento de sistemas Firebird 5.0, focando em performance e integridade de dados empresariais.
 
-### 🔄 Data Pipeline Automation
-Desenvolvimento de pipelines automatizados com Apache Airflow para integração de dados entre Firebird e BigQuery.
+### 🔄 Automação de Pipelines
+Desenvolvimento de pipelines com Apache Airflow para integração de dados entre Firebird e BigQuery.
 
-### ☁️ Infraestrutura Cloud
-Implementação de soluções serverless no Google Cloud Platform usando Cloud Run para processamento de dados.
+### ☁️ Cloud Computing
+Trabalho com Google Cloud Platform, utilizando Cloud Run para processamento de dados.
 
-### 📈 ETL/ERP Integration
-Processos de ETL para integração de sistemas ERP com data warehouse, garantindo consistência e disponibilidade de dados.
+### 📈 ETL/ERP
+Processos de ETL para integração de sistemas ERP com data warehouse.
 
 ## 📫 Conecte-se Comigo
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rigoberto-oliveira-138988125/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RigobertoWLL)
 
+</div>
+
 ## 💡 Interesses & Aprendizado
 
 - 🤖 Integração de IA em monitoramento de sistemas e servidores
-- 📊 Data Engineering e Analytics em ambientes empresariais
-- ☁️ Arquitetura Cloud-Native e soluções serverless
-- 🔄 Automação de processos de dados e orquestração de workflows
+- 📊 Data Engineering e Analytics
+- ☁️ Arquitetura Cloud-Native
+- 🔄 Automação de processos de dados
 - 🔌 Desenvolvimento de integrações (APIs PIX, Slack, etc.)
 
 ## 📈 Experiência
 
-- Migração e gerenciamento de bancos de dados Firebird
-- Construção de DAGs no Apache Airflow para automação de ETL
-- Design e implementação de data warehouse no BigQuery
-- Deployment de aplicações em Cloud Run (GCP)
-- Desenvolvimento de scripts Python para automação de processos
+- Gerenciamento de bancos de dados Firebird
+- Desenvolvimento de DAGs no Apache Airflow
+- Trabalho com BigQuery e data warehouse
+- Deploy de aplicações no Cloud Run (GCP)
+- Scripts Python para automação de processos
 
 ---
 
+<div align="center">
+
 💼 **Analista de Banco de Dados Jr** @ Casa do Construtor  
 ⭐️ From [RigobertoWLL](https://github.com/RigobertoWLL)
+
+</div>
