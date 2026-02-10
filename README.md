@@ -8,7 +8,7 @@ Sou **Analista de Banco de Dados Jr** e **Desenvolvedor Python** na **Casa do Co
 - 🌱 Estudando: Integração de IA em monitoramento de sistemas, MCP (Model Context Protocol)
 - 💼 Especializado em: ETL/ERP, Data Warehousing (BigQuery), Automação de pipelines
 - 🏢 Empresa: Casa do Construtor
-- 🇧🇷 Localização: São Paulo, Brasil
+- 🇧🇷 Localização: Rio Claro - São Paulo, Brasil
 
 ## 🛠️ Stack Tecnológico
 
@@ -29,11 +29,16 @@ Sou **Analista de Banco de Dados Jr** e **Desenvolvedor Python** na **Casa do Co
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=RigobertoWLL&theme=tokyonight&locale=pt-br&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=RigobertoWLL&theme=tokyonight&locale=pt-br&hide_border=true)
 
-![Linguagens mais usadas](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RigobertoWLL&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RigobertoWLL&theme=tokyonight)
 
-![Profile Views](https://komarev.com/ghpvc/?username=RigobertoWLL&color=blueviolet&style=flat-square)
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RigobertoWLL&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RigobertoWLL&theme=tokyonight"/>
+</div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=RigobertoWLL&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil)
 
 ## 🔥 Áreas de Atuação
 
