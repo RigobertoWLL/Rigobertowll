@@ -28,9 +28,12 @@ Sou **DBA Junior** e **Desenvolvedor Python** com experiência em infraestrutura
 
 ## 📊 GitHub Stats
 
-![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RigobertoWLL&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&count_private=true)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RigobertoWLL&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RigobertoWLL&theme=tokyonight&locale=pt-br&hide_border=true)
+
 
 ## 🔥 Projetos em Destaque
 
